@@ -34,3 +34,4 @@ A simple web application that displays delicious meal recipes using dynamic card
 
 2. **Open the `index.html` file in your browser.**  
    There is no server-side code; just open the HTML file to see the meal cards.
+3. Demolink: https://chaitanyaperumalla.github.io/RecipeHub/

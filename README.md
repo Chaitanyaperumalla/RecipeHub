@@ -1,7 +1,9 @@
 ```markdown
 # Recipe Hub
 
-A simple web application that displays delicious meal recipes using dynamic card elements. The project fetches meal data from a JSON file and presents it in an interactive, visually appealing layout.
+A simple web application that displays delicious meal recipes using dynamic card elements.
+The project fetches meal data from a JSON file and presents it in an interactive, visually
+appealing layout.
 
 ## Table of Contents
 
